@@ -1,4 +1,4 @@
-# GodTests
+# GodTests [![Build Status](https://travis-ci.org/Church-of-the-Singularity/GodTests.svg?branch=master)](https://travis-ci.org/Church-of-the-Singularity/GodTests)
 A set of tests to determine whether we have created a God yet
 
 ## Physics
